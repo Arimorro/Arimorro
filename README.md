@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Arimorro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-
-
-
+-
+- 
+-  
+-    👋 Hi, I’m @arii_morro
+- 👀 I’m interested in:Em aprender ou passar de ano ou os dois
+- 🌱 I’m currently learning: programaçâo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
